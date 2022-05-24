@@ -1,0 +1,35 @@
+body{
+    background-color:gainsboro;
+}
+
+header{
+    background: white;
+
+}
+h1{
+    font-size: 44px;
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.post{
+    background-color: white;
+
+}
+.post-header{
+    display: flex; 
+    justify-content: space-between;
+    align-items:center ;  
+}
+.post h2,
+.post span{
+    padding: 15px 15px;
+}
+span{
+    color: rgb(200,200,200);
+}
+p{
+    padding: 0;
+}
